@@ -1,37 +1,37 @@
 /* 添加 CSS */
 /*卡片。card总体样式*/
-.card{
+.card {
 /*4.围绕动物的名称、图片和信息加边框*/
-  border:1px solid #ddd;
+  border: 1px solid #ddd;
   margin: 0 auto;
-  width:300px;
+  width: 300px;
   padding: 0 16px 16px 16px;
-  box-shadow:5px 5px 5px #e6e6e6;
-  background-image:url(image_26.jpg);
+  box-shadow: 5px 5px 5px #e6e6e6;
+  background-image: url(image_26.jpg);
 }
-.info{//
-  width:268px;
+.info {//
+  width: 268px;
   /*5.围绕动物的信息加边框*/
   border: 1px solid #ddd;
-  padding:0 15px;
+  padding: 0 15px;
   /*6.动物的名称、图片和信息之间保留一定间距*/
   margin-top: 10px;
 }
 /*1.将关于动物有趣的事实的文本排成斜体*/
-.summary{
-  font-style:italic;
+.summary {
+  font-style: italic;
 }
-ul{
+ul {
   padding-left: 0;
 }
 /*3.动物的列表项没有点*/
-ul li{
+ul li {
   list-style: none;
 }
 /*2.加粗动物列表项（例如 Habitat）的标记*/
-.bold{
+.bold {
   font-weight: bold;
 }
-h3{
-  line-height:30px;
+h3 {
+  line-height: 30px;
 }
